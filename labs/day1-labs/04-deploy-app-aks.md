@@ -54,6 +54,8 @@ In our lab config, we must create a [secret](https://kubernetes.io/docs/concepts
 
 In the Azure portal, navigate to the 'Access Keys' section of the Container Registry you have created to get the below values and update them in the shell:
 
+
+
 ```bash
 # set these values to yours
 ACR_SERVER=
